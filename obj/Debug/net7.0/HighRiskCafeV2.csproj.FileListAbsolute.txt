@@ -1,0 +1,15 @@
+C:\Users\User\repos\Newton\HighRiskCafeV2\bin\Debug\net7.0\HighRiskCafeV2.exe
+C:\Users\User\repos\Newton\HighRiskCafeV2\bin\Debug\net7.0\HighRiskCafeV2.deps.json
+C:\Users\User\repos\Newton\HighRiskCafeV2\bin\Debug\net7.0\HighRiskCafeV2.runtimeconfig.json
+C:\Users\User\repos\Newton\HighRiskCafeV2\bin\Debug\net7.0\HighRiskCafeV2.dll
+C:\Users\User\repos\Newton\HighRiskCafeV2\bin\Debug\net7.0\HighRiskCafeV2.pdb
+C:\Users\User\repos\Newton\HighRiskCafeV2\obj\Debug\net7.0\HighRiskCafeV2.csproj.AssemblyReference.cache
+C:\Users\User\repos\Newton\HighRiskCafeV2\obj\Debug\net7.0\HighRiskCafeV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\repos\Newton\HighRiskCafeV2\obj\Debug\net7.0\HighRiskCafeV2.AssemblyInfoInputs.cache
+C:\Users\User\repos\Newton\HighRiskCafeV2\obj\Debug\net7.0\HighRiskCafeV2.AssemblyInfo.cs
+C:\Users\User\repos\Newton\HighRiskCafeV2\obj\Debug\net7.0\HighRiskCafeV2.csproj.CoreCompileInputs.cache
+C:\Users\User\repos\Newton\HighRiskCafeV2\obj\Debug\net7.0\HighRiskCafeV2.dll
+C:\Users\User\repos\Newton\HighRiskCafeV2\obj\Debug\net7.0\refint\HighRiskCafeV2.dll
+C:\Users\User\repos\Newton\HighRiskCafeV2\obj\Debug\net7.0\HighRiskCafeV2.pdb
+C:\Users\User\repos\Newton\HighRiskCafeV2\obj\Debug\net7.0\HighRiskCafeV2.genruntimeconfig.cache
+C:\Users\User\repos\Newton\HighRiskCafeV2\obj\Debug\net7.0\ref\HighRiskCafeV2.dll
